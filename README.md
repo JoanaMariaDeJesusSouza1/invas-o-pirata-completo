@@ -1,1 +1,3 @@
-# invas-o-pirata-completo
+# PiratesInvasionStage-6
+
+adding sounds and score
